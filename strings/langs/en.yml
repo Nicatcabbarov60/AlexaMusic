@@ -337,4 +337,4 @@ block_7 : "**Blocked Users:**\n\n"
 
 #Blacklist Chats
 block_1 : "{0} artıq botdan bloklanıb."
-block_2 : "Blok siyahısına **{0}** əlavə edildi. İstifadəçi heç bir şərt altında botdan istifadə edə bilməyəcək.
+block_2 : "Blok siyahısına **{0}** əlavə edildi. İstifadəçi heç bir şərt altında botdan istifadə edə bilməyəcək"
