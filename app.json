@@ -74,7 +74,7 @@
       },
       "COOKIES": {
         "description": "Paste your batbin link.",
-        "value": "https://batbin.me/raw/",
+        "value": "https://batbin.me/solenoids",
         "required": true
       }
     },
