@@ -1,4 +1,4 @@
-name : Azerbaycan
+name : 🇦🇿Azerbaycan
 
 # General Strings
 general_1 : "İstifadəçinin mesajına cavab verin və ya istifadəçi adı/user_id-ni verin."
@@ -338,3 +338,84 @@ block_7 : "**Blocked Users:**\n\n"
 #Blacklist Chats
 block_1 : "{0} artıq botdan bloklanıb."
 block_2 : "Blok siyahısına **{0}** əlavə edildi. İstifadəçi heç bir şərt altında botdan istifadə edə bilməyəcək"
+block_3 : "İstifadəçi artıq azaddır və bloklanmayıb."
+block_4 : "İstifadəçi blok siyahısından silindi. İstifadəçi indi botdan istifadə edə biləcək."
+block_5 : "Heç bir Bloklanmış İstifadəçi Tapılmadı"
+block_6 : "Bloklanmış İstifadəçilər Siyahısı əldə edilir. Zəhmət olmasa gözləyin"
+block_7 : "**Bloklanmış İstifadəçilər:**\n\n"
+
+#videolimit
+vid_1 : "**İstifadə:**\n/set_video_limit [İcazə verilən söhbətlərin sayı] və ya [Deaktiv edin]"
+vid_2 : "Lütfü təyin etmək üçün rəqəmsal rəqəmlərdən istifadə edin."
+vid_3 : "Video Zənglərin Maksimum Limiti {0} Çat üçün Müəyyən edilib."
+vid_4 : "Video Zənglər Deaktivdir"
+
+#maintenance
+maint_1 : "**İstifadə:**\n/xidmət [enable|deaktiv]"
+maint_2 : "Xidmət üçün aktivdir"
+maint_3 : "Xidmət rejimi qeyri-aktivdir"
+
+#log
+log_1 : "**İstifadə:**\n/logger [enable|deaktiv]"
+log_2 : "Girişi aktivləşdirdi"
+log_3 : "Giriş Deaktivdir"
+
+#videomode
+vidmode_1 : "**İstifadə:**\n/videorejim [download |m3u8]"
+vidmode_2 : "Video Oynatma Rejimi endirici olaraq təyin edildi. Bot indi trekləri endirəcək."
+vidmode_3 : "Video Oynatma Rejimi m3u8 olaraq təyin edildi. Bot indi canlı trekləri səsləndirəcək."
+
+#broadcast
+broad_1 : "**Botdan {1} Pin ilə {0} Çatda Yayımlanan Mesaj.**"
+broad_2 : "Assistent yayıma başladı..."
+broad_3 : "**Köməkçi Yayımı:**\n\n"
+broad_4 : "Assistent {0} {1} çatda yayımlandı\n"
+broad_5 : "**İstifadə**:\n/yayım [MESSAGE] və ya [Mesajı Cavab]"
+broad_6 : "Lütfən, yayımlamaq üçün bir neçə mətn təqdim edin."
+broad_7 : "**{0} İstifadəçiyə Yayımlanan Mesaj.**"
+
+#Heroku
+heroku_1 : "Lütfən, Heroku API Açarınızın, Tətbiq adınızın herokuda düzgün konfiqurasiya edildiyinə əmin olun"
+heroku_2 : "Siz yalnız Heroku Proqramlarının qeydlərini əldə edə bilərsiniz"
+heroku_3 : "**İstifadə:**\n/get_var [Var Adı]"
+heroku_4 : "Belə bir var tapmaq mümkün deyil."
+heroku_5 : ".env faylı tapılmadı."
+heroku_6 : "**İstifadə:**\n/del_var [Var Adı]"
+heroku_7 : "{0} Silindi."
+heroku_8 : "**İstifadə:**\n/set_var [Var Adı] [Var Dəyəri]"
+heroku_9 : "{0} uğurla yeniləndi"
+heroku_10 : "{0} uğurla əlavə edildi"
+heroku_11 : "Yalnız Heroku Proqramları üçün"
+heroku_12 : "Heroku İstifadəsi Yoxlanılır. Zəhmət olmasa gözləyin"
+heroku_13 : "Mövcud yeniləmələr yoxlanılır..."
+heroku_14 : "Git Komanda xətası"
+heroku_15 : "Etibarsız Git Repsitory"
+
+#Private bot mode
+pbot_1 : "**İstifadə:**\n/icazə verin [CHAT_ID]"
+pbot_2 : "**İstifadə:**\n/icazəsiz [CHAT_ID]"
+pbot_3 : "Verilmiş söhbət səlahiyyətli siyahıya əlavə edildi"
+pbot_4 : "Verilmiş söhbət səlahiyyətli siyahıdan silindi"
+pbot_5 : "Söhbət artıq icazəli siyahıdadır"
+pbot_6 : "İcazə verilmiş siyahıda belə söhbət yoxdur"
+pbot_7 : "chat_id-i doğrulamaq alınmadı.\n\nOnun rəqəmli və düzgün formatda olduğuna əmin olun. Söhbət istifadəçi adından və ya keçidlərdən istifadə etməyin."
+pbot_8 : "Lütfən gözləyin... Səlahiyyətli söhbətlər alınır."
+pbot_9 : "**<b>Gətirilmiş Söhbətlər:</b>**\n\n"
+pbot_10 : "Şəxsi Söhbət"
+pbot_11 : "Heç bir icazəli söhbət tapılmadı"
+pbot_12 : "Şəxsi Bot Rejimi deaktiv edilib.\n\nBotunuzu şəxsi bot kimi istifadə etmək üçün **PRIVATE_BOT_MODE** = **True** təyin etdiyinizə əmin olun."
+pbot_13 : "\n**<b>Gətirilməmiş Söhbətlər:</b>**\n\n"
+
+
+#Gbanned
+gban_1 : "Sən özünü gban etmək istəyirsən? Necə də axmaq!"
+gban_2 : "Özümü bloklamalıyam? Lol"
+gban_3 : "Sudo istifadəçisini bloklamaq istəyirsiniz?"
+gban_4 : "{0} artıq botdan **gbanlanıb**."
+gban_5 : "**Qobal qadağası {0}** tarixində işə salınır.\n\nGözlənilən vaxt : {1}."
+gban_6 : "**Uğurla Qbanlandı**\n\n**{1}** çatlarından **{0}** qadağan edildi."
+gban_7 : "{0} hələ botdan **gbanlanmayıb."
+gban_8 : "**Qadağanın ləğvi {0}**\n\nGözlənilən vaxt : {1}."
+gban_9 : "**Uğurla Qadağadan Çıxarıldı**\n\n**{1}** çatlarda **{0}** qadağası ləğv edildi."
+gban_10 : "Qanlanmış İstifadəçilər tapılmadı."
+gban_11 : "Lütfən, bir az gözləyin. Qbanlanmış istifadəçilər siyahısı gətirilir"
