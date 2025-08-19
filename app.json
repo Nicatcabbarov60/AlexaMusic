@@ -19,22 +19,22 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "25018310",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "972b64ea01f15b383b1b5ac6f493e6d5",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "8351507047:AAHPcmCUNugo1T26ZBNHUeMbluNO3I8EKpI",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5303133436",
+        "value": "7982053368",
         "required": true
       },        
       "MONGO_DB_URI": {
@@ -54,7 +54,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "HRKU-AAig7mHQ2Lc1YZIQc-A0vnIP-FGB-xRNqcNmt6RiU0Vg_wczO-vGeY9Y",
         "required": true
       },
       "HEROKU_APP_NAME": {
