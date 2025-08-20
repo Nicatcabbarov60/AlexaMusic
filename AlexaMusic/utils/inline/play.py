@@ -39,7 +39,7 @@ selections = [
 
 def stream_markup_timer(_, videoid, chat_id, played, dur):
     bar = random.choice(selections)
-    return [
+    return
         [
             InlineKeyboardButton(
                 text=f"{played} •{bar}• {dur}",
