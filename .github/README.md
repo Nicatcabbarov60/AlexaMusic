@@ -6,7 +6,7 @@
 </h4>
 <br>
 <p align="center">
-    <a href="https://t.me/Alexa_BotUpdates">
+    <a href="https://t.me/Ven0m">
         <img src="https://files.catbox.moe/9835q0.jpg" width="650">
     
 
