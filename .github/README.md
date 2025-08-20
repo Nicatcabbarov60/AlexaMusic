@@ -10,9 +10,9 @@
         <img src="https://files.catbox.moe/9835q0.jpg" width="650">
     
 
-<h1 align="center"><b>😂 ᴠɪᴇᴡ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs 😂</b></h1>
+<h1 align="center"><b>😂 BÜTÜN ƏMRLƏRƏ BAX 😂</b></h1>
 
-### ᴠɪᴇᴡ ᴀʟʟ ʙᴀsɪᴄ ᴄᴏᴍᴍᴀɴᴅs 😂
+### BÜTÜN ƏMRLƏRƏ BAX 😂
 <details>
 <summary><b>ʙᴀsɪᴄ ᴄᴍᴅs</b></summary>
 <br>
@@ -26,7 +26,7 @@
 - `/vk <song name>` - generate song without download
 </details>
 
-###  ᴏɴʟʏ ᴀᴅᴍɪɴ ᴄᴀɴ ᴇxɪᴄᴜᴛᴇ 🙄
+###  Yalnızca admin icra edə bilərᴇ 🙄
 <details>
 <summary><b>ᴀᴅᴍɪɴ ᴄᴍᴅs</b></summary>
 <br>
