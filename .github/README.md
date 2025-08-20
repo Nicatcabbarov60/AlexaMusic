@@ -7,7 +7,7 @@
 <br>
 <p align="center">
     <a href="https://t.me/Alexa_BotUpdates">
-        <img src="https://telegra.ph/file/f6064bc90cc76e59015b2.jpg" width="650">
+        <img src="https://files.catbox.moe/9835q0.jpg" width="650">
     </a>
 </p>
 <br>
