@@ -51,7 +51,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="𝖮𝗐𝗇𝖾𝗋", url="https://t.me/Jankari_Ki_Duniya"),
+            InlineKeyboardButton(text="𝖮𝗐𝗇𝖾𝗋", url="https://t.me/Ordendide"),
         ],
         [
             InlineKeyboardButton(
@@ -78,7 +78,7 @@ def telegram_markup_timer(_, videoid, chat_id, played, dur):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="𝖮𝗐𝗇𝖾𝗋", url="https://t.me/Jankari_Ki_Duniya"),
+            InlineKeyboardButton(text="𝖮𝗐𝗇𝖾𝗋", url="https://t.me/Ordendide"),
         ],
         [
             InlineKeyboardButton(
@@ -94,6 +94,7 @@ def telegram_markup_timer(_, videoid, chat_id, played, dur):
 
 
 def stream_markup(_, videoid, chat_id):
+def stream_markup(_, videoid, chat_id):
     return [
         [
             InlineKeyboardButton(
@@ -107,7 +108,7 @@ def stream_markup(_, videoid, chat_id):
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
-            InlineKeyboardButton(text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=https://t.me/vssohbet),
+            InlineKeyboardButton(text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=SUPPORT_GROUP),
         ],
     ]
 
