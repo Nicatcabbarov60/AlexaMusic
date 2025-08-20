@@ -1,7 +1,7 @@
 <h1 align="center"><b>❤️ 𝐕𝐞𝐧𝐨𝐦 𝐌𝐮𝐬𝐢𝐜 ❤️</b></h1>
 
 <h4 align="center">
-    Venom Music təqdim olunur – Telegramda fasiləsiz audio və video oynatma üçün ağıllı, güclü və sadə botunuz. Ən son Pyrogram ilə Python-da yazılmış Alexa Music üstün əyləncə təcrübəsi təqdim edir. Optimal performans və Telegram zövqünün yeni səviyyəsi üçün indi yeniləyin.
+    Venom Music təqdim olunur – Telegramda fasiləsiz audio və video oynatma üçün ağıllı, güclü və sadə botunuz. Ən son Pyrogram ilə Python-da yazılmış Venom Music üstün əyləncə təcrübəsi təqdim edir. Optimal performans və Telegram zövqünün yeni səviyyəsi üçün indi yeniləyin.
  Ən son Pyrogram versiyası ilə işləmək...
 </h4>
 <br>
